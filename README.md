@@ -1,2 +1,3 @@
 # VISION-AID-Vision-based-Intelligent-System
 VISION-AID Vision-based Intelligent System for Identification, Object detection and Navigation for the Impaired Disabled
+VISION-AID, is a vision-based intelligent assistive system designed to enhance both safe navigation and social awareness for visually impaired users. The system utilizes a camera-based framework integrated with artificial intelligence to process real-time visual information. By detecting obstacles, identifying surrounding objects, and recognizing human faces, the system provides audio-based feedback that assists users in navigating environments and identifying familiar individuals independently.
